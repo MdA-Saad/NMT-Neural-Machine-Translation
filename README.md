@@ -1,3 +1,3 @@
-# NMT-Neural-Machine-Translation-
-
+# NMT-Neural-Machine-Translation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MdA-Saad/NMT-Neural-Machine-Translation/blob/main/seq2seq-es-en.ipynb)
 This project implements a Sequence-to-Sequence (Seq2Seq) Transformer model from scratch using PyTorch for high-accuracy English-to-Spanish translation. Trained on the OPUS TED2020 corpus, the model utilizes Multi-Head Attention and Teacher Forcing to handle complex linguistic dependencies and morphological nuances. Performance is validated using industry-standard SacreBLEU and chrF metrics, achieving competitive benchmarks against WMT19 standards.
